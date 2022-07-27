@@ -33,8 +33,8 @@
  Task 4: Defining of RF Scores as Segments
 
  Task 5: 
-           # 1. Examine the recency, frequency and monetary averages of the segments.
-           # 2. With the help of RFM analysis, find the customers in the relevant profile for 2 cases and save the customer IDs to the csv.
+           - 1. Examine the recency, frequency and monetary averages of the segments.
+           - 2. With the help of RFM analysis, find the customers in the relevant profile for 2 cases and save the customer IDs to the csv.
            
 
  Task 6: Functionalizing the whole process.
